@@ -3,6 +3,7 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="6" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
