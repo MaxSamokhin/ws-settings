@@ -19,5 +19,6 @@
     <mask>*selector.ts</mask>
     <mask>*epic.ts</mask>
     <mask>*.ts</mask>
+    <mask>*action.ts</mask>
   </component>
 </application>
