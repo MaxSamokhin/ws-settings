@@ -4,9 +4,12 @@
     <property name="created">2019-09-05T09:04:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-05T13:02:39</property>
+    <property name="modified">2020-05-12T20:08:33</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono Medium" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>
