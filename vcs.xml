@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/MaxSamokhin/angularpro-20191012.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.netcracker.com/PROD.UX.UI_Library/ux-ng2-design-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Максим\Documents\frontend" />
+    <option name="cloneParentDir" value="C:\Users\Максим\Documents\работа" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
