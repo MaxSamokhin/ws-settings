@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="m" type="Native" />
       <mapping pattern="FbAuthResponse" type="PLAIN_TEXT" />
       <mapping pattern="3-rest" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
